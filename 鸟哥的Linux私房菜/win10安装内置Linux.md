@@ -60,10 +60,11 @@ sudo echo xfce4-session >~/.xsession
 重启xrdp服务
 sudo service xrdp restart
 如果有防火墙，允许就好了
-
 ```
 
 
 2、在Cortana中搜索远程桌面连接，点击进入，输入本机IP：端口，以及子系统用户名（在步骤2中，终端窗口@符号之前）
+
+例如我的端口号为：192.168.31.105:3390
 
 [参考](https://jingyan.baidu.com/article/ed2a5d1f98577809f6be17a3.html)
