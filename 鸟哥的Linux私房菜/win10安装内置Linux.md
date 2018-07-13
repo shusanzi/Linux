@@ -68,3 +68,6 @@ sudo service xrdp restart
 例如我的端口号为：192.168.31.105:3390
 
 [参考](https://jingyan.baidu.com/article/ed2a5d1f98577809f6be17a3.html)
+
+
+3、重启电脑后要重启service
